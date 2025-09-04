@@ -1,0 +1,58 @@
+<DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset=UTF-8>
+<meta name="view port" content="width=device-width,initial-scale=1.0">
+<html>
+<title>Second website</title>
+<style>
+  body{
+    background-color:grey;
+    justfiy-content:center;
+    align-items:center;
+    text-align:center;
+  }
+  h1{
+   color:red;
+  }
+  h2{
+   color:yellow;
+  }
+  h3{
+   color:blue;
+  }
+  h4{
+   color:aqua;
+  }
+  h5{
+   color:green;
+  }
+  h6{
+   color:grey;
+  }
+</style>
+</head>
+<body>
+  <h1><marquee >Beautiful Flowers</marquee></h1>
+  <br>
+  <h2><marquee direction="right">Beautiful Flowers</marquee></h2>
+  <img src="1.png" alt="" width=500px height:500px>
+  <br><br>
+  <img src="2.png" alt=" "width=500px height:500px>
+  <br><br>
+  <a href="https://www.w3schools.com/">w3school</a>
+  <h1>This is red flowers</h1>
+  <br>
+  <h2>This is yellow flowers</h2>
+  <br>
+  <h3>This is blue flowers</h3>
+  <br>
+  <h4>This is aqua flowers</h4>
+  <br>
+  <h5>This is green flowers</h5>
+  <br>
+  <h6>This is grey flowers</h5>
+  <br>
+  <p>The flowers are considered <mark>to be beautiful</mark>.They refreshes <del>our mind by its beautiful smell</del> and appearance</p>
+</body>
+</html>
